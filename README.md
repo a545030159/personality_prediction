@@ -7,3 +7,6 @@ demo of  personality_prediction
       
               result = data * weight
         # [28, 272, 55, 200] * [28, 272, 55, 200]
+
+
+运行时请从main.py开始运行
